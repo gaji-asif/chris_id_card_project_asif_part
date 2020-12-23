@@ -1,0 +1,2 @@
+[19-Dec-2019 16:04:37 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/yqty82yknxfa/public_html/tests/app/Console/Commands/ReminderEmailCommand.php on line 12
+[19-Dec-2019 16:04:44 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/yqty82yknxfa/public_html/tests/app/Console/Commands/ReminderEmailCommand.php on line 12
